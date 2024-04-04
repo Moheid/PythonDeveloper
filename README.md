@@ -10,3 +10,21 @@ Python is consistently rated as one of the world's most popular programming lang
 - Python is versatile and can be used to create many different things.
 - Python has powerful development libraries include AI, ML etc.
 - Python is much in demand and ensures high salary
+
+**Python** is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning Python:
+
+- **Python is Interpreted** − Python is processed at runtime by the interpreter. You do not need to compile your program before executing it. This is similar to PERL and PHP.
+- **Python is Interactive** − You can actually sit at a Python prompt and interact with the interpreter directly to write your programs.
+- **Python is Object-Oriented** − Python supports Object-Oriented style or technique of programming that encapsulates code within objects.
+- **Python is a Beginner's Language** − Python is a great language for the beginner-level programmers and supports the development of a wide range of applications from simple text processing to WWW browsers to games.
+
+## Pythonic Code Style
+Python leaves you free to choose to program in an object-oriented, procedural, functional, aspect-oriented, or even logic-oriented way. These freedoms make Python a great language to write clean and beautiful code.
+
+Pythonic Code Style is actually more of a design philosophy and suggests to write a code which is :
+
+- Clean
+- Simple
+- Beautiful
+- Explicit
+- Readable
