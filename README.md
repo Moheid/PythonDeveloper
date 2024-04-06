@@ -28,3 +28,36 @@ Pythonic Code Style is actually more of a design philosophy and suggests to writ
 - Beautiful
 - Explicit
 - Readable
+  
+## Python Local Variables
+
+Python Local Variables are defined inside a function. We can not access variable outside the function.
+***A Python functions is a piece of reusable code and you will learn more about function in Python - Functions tutorial.***
+
+### Example
+Following is an example to show the usage of local variables:
+
+`def sum(x,y):
+   sum = x + y
+   return sum
+print(sum(5, 10))`
+
+## Python Global Variables
+
+Any variable created outside a function can be accessed within any function and so they have global scope.
+
+### Example
+
+Following is an example of global variables −
+`x = 5
+y = 10
+def sum():
+   sum = x + y
+   return sum
+print(sum())`
+
+## Constants in Python
+
+Python doesn't have any formally defined constants, However you can indicate a variable to be treated as a constant by using all-caps names with underscores. For example, the name PI_VALUE indicates that you don't want the variable redefined or changed in any way.
+
+***The naming convention using all-caps is sometimes referred to as screaming snake case - where the all-caps (screaming) and the underscores (snakes).***
