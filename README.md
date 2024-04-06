@@ -49,12 +49,12 @@ Any variable created outside a function can be accessed within any function and 
 ### Example
 
 Following is an example of global variables −
-`x = 5
+```x = 5
 y = 10
 def sum():
    sum = x + y
    return sum
-print(sum())`
+print(sum())```
 
 ## Constants in Python
 
