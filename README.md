@@ -37,10 +37,12 @@ Python Local Variables are defined inside a function. We can not access variable
 ### Example
 Following is an example to show the usage of local variables:
 
-```def sum(x,y):
+```
+def sum(x,y):
    sum = x + y
    return sum
-print(sum(5, 10))```
+print(sum(5, 10))
+```
 
 ## Python Global Variables
 
@@ -50,12 +52,14 @@ Any variable created outside a function can be accessed within any function and 
 
 Following is an example of global variables −
 
-```x = 5
+```
+x = 5
 y = 10
 def sum():
    sum = x + y
    return sum
-print(sum())```
+print(sum())
+```
 
 ## Constants in Python
 
